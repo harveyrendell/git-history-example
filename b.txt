@@ -1,2 +1,0 @@
-File b has some new content
-And some more new content
