@@ -1,4 +1,4 @@
-BOARD_SIZE = 8
+BOARD_SIZE = 12
 
 def under_attack(col, queens):
     left = right = col
